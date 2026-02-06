@@ -1,7 +1,7 @@
 # FM24W256 Arduino Library
 
-[![License: MIT](https://img.shields.io)](https://opensource.org)
-[![Status: Work in Progress](https://img.shields.io)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Static Badge](https://img.shields.io/badge/Status-Work_In_Progress-blue?style=plastic)
 
 A heavily modified fork of the original FM24W256 library by Tjaart van Aswegen. This version is optimized for backing up, flashing, and testing FM24W256 FRAM ICs.
 
